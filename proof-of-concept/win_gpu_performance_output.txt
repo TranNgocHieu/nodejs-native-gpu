@@ -1,0 +1,191 @@
+Starting GPU adapter performance test...
+
+=== GPU Adapter Performance Test ===
+
+Available GPU adapters:
+0: NVIDIA GeForce GTX 1050 Ti | Vulkan
+1: Intel(R) UHD Graphics 770 | Vulkan
+2: NVIDIA GeForce GTX 1050 Ti | DirectX 12
+3: Intel(R) UHD Graphics 770 | DirectX 12
+4: NVIDIA GeForce GTX 1050 Ti | DirectX 12
+5: Microsoft Basic Render Driver | DirectX 12
+6: NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2 | OpenGL
+
+Test matrix size: 1024x1024 (1.0M elements)
+
+
+--- Adapter 0: NVIDIA GeForce GTX 1050 Ti | Vulkan ---
+SUCCESS: GPU context initialized: adapter_0
+Warmup runs...
+Intensive performance measurement (10 runs + combined operations)...
+  Run 1: 552.33ms
+  Run 2: 510.26ms
+  Run 3: 506.29ms
+  Run 4: 503.38ms
+  Run 5: 507.82ms
+  Run 6: 503.05ms
+  Run 7: 512.70ms
+  Run 8: 504.92ms
+  Run 9: 513.46ms
+  Run 10: 502.62ms
+STATS: Average time: 511.68ms (min: 502.62ms, max: 552.33ms)
+PERF: Throughput: 12.59 GFLOPS
+OPS: Combined operations: 3x matmul + add + multiply = 6.44B ops
+
+--- Adapter 1: Intel(R) UHD Graphics 770 | Vulkan ---
+SUCCESS: GPU context initialized: adapter_1
+Warmup runs...
+Intensive performance measurement (10 runs + combined operations)...
+  Run 1: 1515.72ms
+  Run 2: 1503.68ms
+  Run 3: 1506.08ms
+  Run 4: 1506.56ms
+  Run 5: 1493.66ms
+  Run 6: 1486.68ms
+  Run 7: 1483.76ms
+  Run 8: 1489.98ms
+  Run 9: 1495.81ms
+  Run 10: 1499.27ms
+STATS: Average time: 1498.12ms (min: 1483.76ms, max: 1515.72ms)
+PERF: Throughput: 4.30 GFLOPS
+OPS: Combined operations: 3x matmul + add + multiply = 6.44B ops
+
+--- Adapter 2: NVIDIA GeForce GTX 1050 Ti | DirectX 12 ---
+SUCCESS: GPU context initialized: adapter_2
+Warmup runs...
+Intensive performance measurement (10 runs + combined operations)...
+  Run 1: 558.63ms
+  Run 2: 504.19ms
+  Run 3: 502.77ms
+  Run 4: 506.57ms
+  Run 5: 517.25ms
+  Run 6: 501.26ms
+  Run 7: 502.97ms
+  Run 8: 506.49ms
+  Run 9: 505.03ms
+  Run 10: 507.77ms
+STATS: Average time: 511.29ms (min: 501.26ms, max: 558.63ms)
+PERF: Throughput: 12.60 GFLOPS
+OPS: Combined operations: 3x matmul + add + multiply = 6.44B ops
+
+--- Adapter 3: Intel(R) UHD Graphics 770 | DirectX 12 ---
+SUCCESS: GPU context initialized: adapter_3
+Warmup runs...
+Intensive performance measurement (10 runs + combined operations)...
+  Run 1: 935.22ms
+  Run 2: 896.70ms
+  Run 3: 908.90ms
+  Run 4: 890.49ms
+  Run 5: 892.75ms
+  Run 6: 904.01ms
+  Run 7: 885.30ms
+  Run 8: 914.75ms
+  Run 9: 883.71ms
+  Run 10: 882.95ms
+STATS: Average time: 899.48ms (min: 882.95ms, max: 935.22ms)
+PERF: Throughput: 7.16 GFLOPS
+OPS: Combined operations: 3x matmul + add + multiply = 6.44B ops
+
+--- Adapter 4: NVIDIA GeForce GTX 1050 Ti | DirectX 12 ---
+SUCCESS: GPU context initialized: adapter_4
+Warmup runs...
+Intensive performance measurement (10 runs + combined operations)...
+  Run 1: 539.27ms
+  Run 2: 500.76ms
+  Run 3: 510.82ms
+  Run 4: 501.24ms
+  Run 5: 492.98ms
+  Run 6: 516.33ms
+  Run 7: 497.95ms
+  Run 8: 497.91ms
+  Run 9: 514.88ms
+  Run 10: 505.27ms
+STATS: Average time: 507.74ms (min: 492.98ms, max: 539.27ms)
+PERF: Throughput: 12.69 GFLOPS
+OPS: Combined operations: 3x matmul + add + multiply = 6.44B ops
+
+--- Adapter 5: Microsoft Basic Render Driver | DirectX 12 ---
+SUCCESS: GPU context initialized: adapter_5
+Warmup runs...
+Intensive performance measurement (10 runs + combined operations)...
+  Run 1: 6252.87ms
+  Run 2: 6280.72ms
+  Run 3: 6089.49ms
+  Run 4: 6236.21ms
+  Run 5: 6434.54ms
+  Run 6: 6255.53ms
+  Run 7: 6156.90ms
+  Run 8: 6145.75ms
+  Run 9: 6191.77ms
+  Run 10: 6376.27ms
+STATS: Average time: 6242.00ms (min: 6089.49ms, max: 6434.54ms)
+PERF: Throughput: 1.03 GFLOPS
+OPS: Combined operations: 3x matmul + add + multiply = 6.44B ops
+
+--- Adapter 6: NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2 | OpenGL ---
+SUCCESS: GPU context initialized: adapter_6
+Warmup runs...
+Intensive performance measurement (10 runs + combined operations)...
+  Run 1: 516.32ms
+  Run 2: 479.17ms
+  Run 3: 491.86ms
+  Run 4: 466.73ms
+  Run 5: 468.18ms
+  Run 6: 468.60ms
+  Run 7: 469.33ms
+  Run 8: 466.70ms
+  Run 9: 468.86ms
+  Run 10: 481.13ms
+STATS: Average time: 477.69ms (min: 466.70ms, max: 516.32ms)
+PERF: Throughput: 13.49 GFLOPS
+OPS: Combined operations: 3x matmul + add + multiply = 6.44B ops
+
+============================================================
+PERFORMANCE SUMMARY
+============================================================
+
+PERFORMANCE RESULTS:
+1. NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2 | OpenGL
+    Backend: Gl
+    Average time: 477.69ms (±10.4%)
+    Throughput: 13.49 GFLOPS
+    Operations: 6.44B ops
+
+2. NVIDIA GeForce GTX 1050 Ti | DirectX 12
+    Backend: Dx12
+    Average time: 507.74ms (±9.1%)
+    Throughput: 12.69 GFLOPS
+    Operations: 6.44B ops
+
+3. NVIDIA GeForce GTX 1050 Ti | DirectX 12
+    Backend: Dx12
+    Average time: 511.29ms (±11.2%)
+    Throughput: 12.60 GFLOPS
+    Operations: 6.44B ops
+
+4. NVIDIA GeForce GTX 1050 Ti | Vulkan
+    Backend: Vulkan
+    Average time: 511.68ms (±9.7%)
+    Throughput: 12.59 GFLOPS
+    Operations: 6.44B ops
+
+5. Intel(R) UHD Graphics 770 | DirectX 12
+    Backend: Dx12
+    Average time: 899.48ms (±5.8%)
+    Throughput: 7.16 GFLOPS
+    Operations: 6.44B ops
+
+6. Intel(R) UHD Graphics 770 | Vulkan
+    Backend: Vulkan
+    Average time: 1498.12ms (±2.1%)
+    Throughput: 4.30 GFLOPS
+    Operations: 6.44B ops
+
+7. Microsoft Basic Render Driver | DirectX 12
+    Backend: Dx12
+    Average time: 6242.00ms (±5.5%)
+    Throughput: 1.03 GFLOPS
+    Operations: 6.44B ops
+
+
+Detailed results saved to: gpu_performance_results.json

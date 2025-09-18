@@ -1,0 +1,26 @@
+{
+  "timestamp": "2025-09-18T00:33:10.500Z",
+  "testConfig": {
+    "matrixSize": 1024,
+    "testRuns": 10,
+    "operations": ["3x matmul", "add", "multiply"],
+    "description": "Intensive combined GPU operations"
+  },
+  "results": [
+    {
+      "adapter": 0,
+      "name": "Apple M4 | Metal",
+      "backend": "Metal",
+      "status": "SUCCESS",
+      "time": 267.44384989738467,
+      "minTime": 259.93362498283386,
+      "maxTime": 280.31358301639557,
+      "throughput": 24.09682667398298,
+      "totalOperations": 6444548096,
+      "times": [
+        280.31358301639557, 271.907084017992, 270.734875023365, 265.5222079753876, 259.93362498283386,
+        263.5119160115719, 268.3482909798622, 264.1656669974327, 266.3913749754429, 263.6098749935627
+      ]
+    }
+  ]
+}

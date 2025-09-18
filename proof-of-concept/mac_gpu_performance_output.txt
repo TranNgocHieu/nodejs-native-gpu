@@ -1,0 +1,41 @@
+Starting GPU adapter performance test...
+
+=== GPU Adapter Performance Test ===
+
+Available GPU adapters:
+0: Apple M4 | Metal
+
+Test matrix size: 1024x1024 (1.0M elements)
+
+
+--- Adapter 0: Apple M4 ---
+SUCCESS: GPU context initialized: adapter_0
+Warmup runs...
+Intensive performance measurement (10 runs + combined operations)...
+  Run 1: 280.31ms
+  Run 2: 271.91ms
+  Run 3: 270.73ms
+  Run 4: 265.52ms
+  Run 5: 259.93ms
+  Run 6: 263.51ms
+  Run 7: 268.35ms
+  Run 8: 264.17ms
+  Run 9: 266.39ms
+  Run 10: 263.61ms
+STATS: Average time: 267.44ms (min: 259.93ms, max: 280.31ms)
+PERF: Throughput: 24.10 GFLOPS
+OPS: Combined operations: 3x matmul + add + multiply = 6.44B ops
+
+============================================================
+PERFORMANCE SUMMARY
+============================================================
+
+PERFORMANCE RESULTS:
+1. Apple M4 | Metal
+    Backend: Metal
+    Average time: 267.44ms (±7.6%)
+    Throughput: 24.10 GFLOPS
+    Operations: 6.44B ops
+
+
+Detailed results saved to: gpu_performance_results.json
