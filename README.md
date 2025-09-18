@@ -1,5 +1,3 @@
-> 2025.09.15\_
-
 # Native GPU Computing in Node.js - A new era is dawning
 
 > **BREAKING**: The first native GPU-accelerated computation addon for Node.js - _A new era is dawning - 2025.09.15_
@@ -68,8 +66,8 @@ GitHub.
 
 ## Donation channels
 
-- [GitHub Sponsors](https://github.com/sponsors/zsolttovis)
-- [PayPal](https://paypal.me/zsolttovis)
+- [GitHub Sponsors](https://github.com/sponsors/toviszsolt)
+- [PayPal](https://paypal.me/toviszsolt)
 - **OpenCollective**: This repo needs 100 stars to enable this option.
 
 ## Follow the Updates
