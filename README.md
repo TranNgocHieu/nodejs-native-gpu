@@ -72,7 +72,7 @@ GitHub.
 
 ## Follow the Updates
 
-## October 1, 2025
+### October 1, 2025
 
 - After intense low-level optimizations and deep engine work, the implementation now achieves performance that is competitive with established frameworks.
 - Progress is slower than originally planned due to the custom engine development, which requires careful design to ensure future integration and maintainability.
