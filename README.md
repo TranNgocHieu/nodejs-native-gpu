@@ -72,6 +72,19 @@ GitHub.
 
 ## Follow the Updates
 
+## October 1, 2025
+
+- After intense low-level optimizations and deep engine work, the implementation now achieves performance that is competitive with established frameworks.
+- Progress is slower than originally planned due to the custom engine development, which requires careful design to ensure future integration and maintainability.
+- The engine is still not fully complete; key work remains to make it fully integrable with the PyTorch-compatible API and broader system.
+- Focus remained on matrix multiplication and core engine improvements, testing on mid-range GPUs. Performance gains are evident across devices, though results vary depending on hardware.
+
+### September 19, 2025
+
+- Started creating benchmarks on different GPUs, comparing the implementation with PyTorch. Initial performance was noticeably lower than PyTorch, revealing clear areas for improvement.
+- Today is less of a milestone and more of a realization: I’m temporarily putting some features aside to dive deep into optimization and achieve better performance.
+- Also realized that starting with a TensorFlow-compatible API was not the best choice; a PyTorch-compatible API will be a more realistic goal for the first round.
+
 ### September 17-18, 2025
 
 Another milestone: I have successfully implemented Autograd, Dense layers, and Optimizer for neural networks, enabling
